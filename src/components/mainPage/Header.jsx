@@ -1,6 +1,6 @@
 import React from "react";
 
-const EllieMainPage = () => {
+const Header = () => {
   return (
     <div>
       <head>
@@ -22,4 +22,4 @@ const EllieMainPage = () => {
   );
 };
 
-export default EllieMainPage;
+export default Header;
