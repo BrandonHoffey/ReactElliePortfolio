@@ -1,9 +1,9 @@
 
 import "./App.css";
-import Header from "./components/mainPage/Header";
+import MainPageIndex from "./components/mainPage/MainPageIndex";
 
 function App() {
-  return <Header />;
+  return <MainPageIndex />;
 }
 
 export default App;
